@@ -1,3 +1,6 @@
 [submodule "OpenGL"]
 	path = OpenGL
 	url = https://github.com/DmitriWamback/OpenGL
+[submodule "Metal/Raytracing/ComputeShaders"]
+	path = Metal/Raytracing/ComputeShaders
+	url = https://github.com/DmitriWamback/ComputeShaders
